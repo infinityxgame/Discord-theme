@@ -516,22 +516,6 @@
     display: none !important
 }
 
-#app-mount .presets_a00e6e>.appIconSelectionContainer__8a3d7:first-child>.appIconSelection__8a3d7,
-#app-mount .tutorialContainer__1f388 .childWrapper__6e9f8:has(svg)::after {
-    position: absolute;
-    content: "";
-    width: 32px;
-    height: 32px;
-    top: 5px;
-    left: 4px;
-    background-image: linear-gradient(-45deg, var(--gradientColor01), var(--gradientColor02));
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-position: center;
-    -webkit-mask-box-image: url("https://raw.githubusercontent.com/infinityxgame/Discord-theme/refs/heads/main/discord-icon.png");
-}
-
-
 #app-mount .presets_a00e6e>.appIconSelectionContainer__8a3d7:first-child {
     background-color: var(--backgroundColor01);
     box-shadow: 0 0 2px var(--interactive-normal);
