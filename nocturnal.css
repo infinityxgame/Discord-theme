@@ -528,7 +528,7 @@
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
-    -webkit-mask-box-image: url("https://github.com/infinityxgame/Windows-Linux-Terminal-Config/raw/refs/heads/main/Windows.Terminal/discord%20icon.png");
+    -webkit-mask-box-image: url("https://raw.githubusercontent.com/infinityxgame/Discord-theme/refs/heads/main/discord-icon.png");
 }
 
 
